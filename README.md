@@ -39,7 +39,7 @@ Stop virtual machine.
     vagrant halt
 
 ## Tmux
-Short shortcuts and cheatsheet
+tmux shortcuts and cheatsheet
 
 https://gist.github.com/MohamedAlaa/2961058
 http://qiita.com/wakaba260/items/4f43e6aa3bfb8a0992ca
